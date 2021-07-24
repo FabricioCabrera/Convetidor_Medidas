@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Combo_medidas">
+        <item> Seleccione </item>
+        <item> Kilómetros </item>
+        <item> Decímetros </item>
+        <item> Centímetros </item>
+        <item> Milímetros </item>
+        <item> Yarda </item>
+
+    </string-array>
+
+
+
+</resources>

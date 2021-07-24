@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Convetidor_Medidas</string>
+    <string name="titulo">Convetidor de Medidas</string>
+    <string name="cantidad">Ingrese la cantidad a convertir</string>
+    <string name="resultado">Resultado</string>
+    <string name="convertir">Convertir</string>
+</resources>
